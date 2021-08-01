@@ -1,0 +1,3 @@
+﻿  RadiusOfACircle.cpp
+C:\Users\branh\source\repos\c++_learn\RadiusOfACircle\RadiusOfACircle\RadiusOfACircle.cpp(14,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RadiusOfACircle.vcxproj -> C:\Users\branh\source\repos\c++_learn\RadiusOfACircle\Debug\RadiusOfACircle.exe
